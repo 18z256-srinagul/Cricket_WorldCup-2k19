@@ -1,0 +1,109 @@
+
+ 
+ 
+ 	 	 	 Match No: 25 Out of 48 ( League match )
+
+	 	 	South_Africa VS New_Zealand
+
+Venue: Edgbaston,England
+
+
+   Toss details: 	
+	New_Zealand Won the toss and choose to bowl
+
+
+			South_Africa Batting 
+
+
+
+		Team score: 241 - 6  (49)	 	RR: 4.92
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+Q_de_Kock		5			8			62.5
+H_Amla			55			83			66.265
+F_du_Plessis		23			25			92
+A_Markram		38			55			69.091
+R_ven_der_Dussen*		67			64			104.69
+D_Miller			36			37			97.297
+A_Phehlukwayo		0			5			0
+C_Morris*			6			7			85.714
+
+
+			New_Zealand Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Henry			10			34			0			2			3.4
+T_Boult			10			63			1			0			6.3
+L_Ferguson		10			59			3			0			5.9
+C_de_Grandhomme		10			33			1			0			3.3
+M_Santner		9			45			1			0			5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 11
+
+ 
+ 
+
+			New_Zealand Batting 
+
+
+
+		Team score: 245 - 6  (48.3)	 	RR: 5.07
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+M_Guptill			35			59			59.322
+C_Munro			9			5			180
+K_Williamson*		106			138			76.812
+R_Taylor			1			2			50
+T_Latham			1			4			25
+J_Neesham		23			34			67.647
+C_de_Grandhomme		60			47			127.66
+M_Santner*		2			3			66.667
+
+
+			South_Africa Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+K_Rabada			10			42			1			0			4.2
+L_Ngidi			10			47			1			1			4.7
+C_Morris			10			49			3			0			4.9
+A_Phehlukwayo		8.3			73			1			0			8.8
+I_Tahir			10			33			0			0			3.3
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 8
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  South_Africa	 	 	 241-6 (49)
+
+	R_ven_der_Dussen*  67 (64)	 L_Ferguson  3-59 (10)
+	H_Amla  55 (83)	 	C_de_Grandhomme  1-33 (10)
+	A_Markram  38 (55)	 	M_Santner  1-45 (9)
+
+
+
+	  New_Zealand	 	 	 245-6 (48.3)
+
+	K_Williamson*  106 (138)	 C_Morris  3-49 (10)
+	C_de_Grandhomme  60 (47)	 K_Rabada  1-42 (10)
+	M_Guptill  35 (59)	 	L_Ngidi  1-47 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+New_Zealand Won by 4 Wickets!

@@ -1,0 +1,117 @@
+
+ 
+ 
+ 	 	 	 Match No: 1 Out of 48 ( League match )
+
+	 	 	England VS South_Africa
+
+Venue: The_Oval,England
+
+
+   Toss details: 	
+	South_Africa Won the toss and choose to bowl
+
+
+			England Batting 
+
+
+
+		Team score: 311 - 8  (50)	 	RR: 6.22
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+J_Roy			54			53			101.89
+J_Bairstow		0			1			0
+J_Root			51			59			86.441
+E_Morgan		                57			60			95
+B_Stokes			89			79			112.66
+J_Buttler			18			16			112.5
+M_Ali			3			9			33.333
+C_Woakes		13			14			92.857
+L_Plunkett*		9			6			150
+J_Archer*			7			3			233.33
+
+
+			South_Africa Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+I_Tahir			10			61			2			0			6.1
+L_Ingidi			10			66			3			0			6.6
+K_Rabada			10			66			2			0			6.6
+D_Pretorius		7			42			0			0			6
+A_Phehlukwayo		8			44			1			0			5.5
+JP_Duminy		2			14			0			0			7
+A_Markram		3			16			0			0			5.33
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 10
+
+ 
+ 
+
+			South_Africa Batting 
+
+
+
+		Team score: 207 - 10  (39.5)	 	RR: 5.24
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+Q_de_Kock		68			74			91.892
+H_Amla			13			23			56.522
+A_Markram		11			12			91.667
+F_du_Plessis		5			7			71.429
+R_V_Dussen		50			61			81.967
+JP_Duminy		8			11			72.727
+D_Pretorius		1			1			100
+A_Phehlukwayo		24			25			96
+K_Rabada			11			19			57.895
+L_Ngidi*			6			5			120
+I_Tahir			0			1			0
+
+
+			England Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+C_Woakes		5			24			0			0			4.8
+J_Archer			7			27			3			1			3.86
+A_Rashid			8			35			1			0			4.38
+M_Ali			10			63			1			0			6.3
+L_Plunkett		7			37			2			0			5.29
+B_Stokes			2.5			12			2			0			4.8
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 10
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  England	 	 	 311-8 (50)
+
+	B_Stokes  89 (79)	 	L_Ngidi  3-66 (10)
+	E_Morgan  57 (60)	 	I_Tahir  2-61 (10)
+	J_Roy  54 (53)	 	K_Rabada  2-66 (10)
+
+
+
+	South_Africa	 	  207 (39.5)
+
+	Q_de_Kock  68 (74)	 	J_Archer  3-27 (7)
+	R_V_Dussen  50 (61)	 B_Stokes  2-12 (2.5)
+	A_Phehlukwayo  24 (25)	 L_Plunkett  2-37 (7)
+
+ 
+ 
+ 
+ 	
+
+			
+England Won by 104 Runs!

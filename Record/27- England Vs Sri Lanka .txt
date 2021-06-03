@@ -1,0 +1,118 @@
+
+ 
+ 
+ 	 	 	 Match No: 27 Out of 48 ( League match )
+
+	 	 	England VS Sri_Lanka
+
+Venue: Headingly_Carnegie,England
+
+
+   Toss details: 	
+	Sri_Lanka Won the toss and choose to bat
+
+
+			Sri_Lanka Batting 
+
+
+
+		Team score: 232 - 9  (50)	 	RR: 4.64
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Karunaratne		1			8			12.5
+K_Perera			2			6			33.333
+A_Fernando		49			39			125.64
+K_Mendis			46			68			67.647
+A_Mathews*		85			115			73.913
+J_Mendis			0			1			0
+D_de_Silva		29			47			61.702
+T_Perera			2			6			33.333
+I_Udana			6			4			150
+L_Malinga			1			5			20
+N_Pradeep*		1			1			100
+
+
+			England Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+C_Woakes		5			22			1			0			4.4
+J_Archer			10			52			3			2			5.2
+M_Wood			8			40			3			0			5
+B_Stokes			5			16			0			0			3.2
+M_Ali			10			40			0			0			4
+A_Rashid			10			45			2			0			4.5
+J_Root			2			13			0			0			6.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 10
+
+ 
+ 
+
+			England Batting 
+
+
+
+		Team score: 212 - 10  (47)	 	RR: 4.51
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+J_Vince			14			18			77.778
+J_Bairstow		0			1			0
+J_Root			57			89			64.045
+E_Morgan			21			35			60
+B_Stokes*		82			89			92.135
+J_Buttler			10			9			111.11
+M_Ali			16			20			80
+C_Woakes		2			4			50
+A_Rashid			1			2			50
+J_Archer			3			11			27.273
+M_Wood			0			4			0
+
+
+			Sri_Lanka Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+L_Malinga			10			43			4			1			4.3
+N_Pradeep		10			38			1			1			3.8
+D_de_Silva		8			32			3			0			4
+T_Perera			8			34			0			0			4.25
+I_Udana			8			41			2			0			5.12
+J_Mendis			3			23			0			0			7.67
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 6
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Sri_Lanka	 	 232-9 (50)
+
+	A_Mathews*  85 (115)	 M_Wood  3-40 (8)
+	A_Fernando  49 (39)	 	J_Archer  3-52 (10)
+	K_Mendis  46 (68)	 	A_Rashid  2-45 (10)
+
+
+
+	  England	 	 	 212 (47)
+
+	B_Stokes*  82 (89)	 	L_Malinga  4-43 (10)
+	J_Root  57 (89)	 	D_de_Silva  3-32 (8)
+	E_Morgan  21 (35)	 	I_Udana  2-41 (8)
+
+ 
+ 
+ 
+ 	
+
+			
+Sri_Lanka Won by 20 Runs!

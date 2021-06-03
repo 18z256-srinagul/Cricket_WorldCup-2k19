@@ -1,0 +1,110 @@
+
+ 
+ 
+ 	 	 	 Match No: 4 Out of 48 ( League match )
+
+	 	 	Afghanistan VS Australia
+
+Venue: Bristol_Country_Ground,England
+
+
+   Toss details: 	
+	Afghanistan Won the toss and choose to bat
+
+
+			Afghanistan Batting 
+
+
+
+		Team score: 207 - 10  (38.2)	 	RR: 5.42
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+M_Shahzad		0			3			0
+Hazratullah		0			2			0
+R_Shah			43			60			71.667
+H_Shahidi			18			34			52.941
+M_Nabi			7			22			31.818
+G_Naib			31			33			93.939
+N_Zadran			51			49			104.08
+R_Khan			27			11			245.45
+D_Zadran			4			6			66.667
+M_U_Rahman		13			9			144.44
+H_Hassan			1			2			50
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Starc			7			31			1			1			4.43
+P_Cummins		8.2			40			3			0			4.88
+N_Nile			8			36			0			1			4.5
+M_Stoinis			7			37			2			1			5.29
+A_Zampa			8			60			3			0			7.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 12
+
+ 
+ 
+
+			Australia Batting 
+
+
+
+		Team score: 209 - 3  (34.5)	 	RR: 6.06
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+A_Finch			66			49			134.69
+D_Warner*		89			114			78.07
+U_Khawaja		15			20			75
+S_Smith			18			27			66.667
+G_Maxwell*		4			1			400
+
+
+			Afghanistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_U_Rahman		4.5			45			1			0			10
+H_Hassan			6			15			0			2			2.5
+D_Zadran			5			32			0			0			6.4
+G_Naib			5			32			1			0			6.4
+M_Nabi			6			32			0			0			5.33
+R_Khan			8			52			1			0			6.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 17
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Afghanistan	 	 	 207 (38.2)
+
+	N_Zadran  51 (49)	 	P_Cummins  3-40 (8.2)
+	R_Shah  43 (60)	 	A_Zampa  3-60 (8)
+	G_Naib  31 (33)	 	M_Stoinis  2-37 (7)
+
+
+
+	  Australia	 	 209-3 (34.5)
+
+	D_Warner*  89 (114)	 	G_Naib  1-32 (5)
+	A_Finch  66 (49)	 	M_U_Rahman  1-45 (4.5)
+	S_Smith  18 (27)	 	R_Khan  1-52 (8)
+
+ 
+ 
+ 
+ 	
+
+			
+Australia Won by 7 Wickets!

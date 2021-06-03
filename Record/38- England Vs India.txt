@@ -1,0 +1,110 @@
+
+ 
+ 
+ 	 	 	 Match No: 38 Out of 48 ( League match )
+
+	 	 	England VS India
+
+Venue: Edgbaston,England
+
+
+   Toss details: 	
+	England Won the toss and choose to bat
+
+
+			England Batting 
+
+
+
+		Team score: 337 - 7  (50)	 	RR: 6.74
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+J_Roy			66			57			115.79
+J_Bairstow		111			109			101.83
+J_Root			44			54			81.481
+E_Morgan			1			9			11.111
+B_Stokes			79			54			146.3
+J_Buttler			20			8			250
+C_Woakes			7			5			140
+L_Plunkett*		1			4			25
+J_Archer*			0			0			0
+
+
+			India Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Shami			10			69			5			1			6.9
+J_Bumrah			10			44			1			1			4.4
+Y_Chahal			10			88			0			0			8.8
+H_Pandya			10			60			0			0			6
+K_Yadhav			10			72			1			0			7.2
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 8
+
+ 
+ 
+
+			India Batting 
+
+
+
+		Team score: 306 - 5  (50)	 	RR: 6.12
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+KL_Rahul			0			9			0
+R_Sharma			102			109			93.578
+V_Kohli			66			76			86.842
+R_Pant			32			29			110.34
+H_Pandya			45			33			136.36
+MS_Dhoni*		42			31			135.48
+K_Jadhav*			12			13			92.308
+
+
+			England Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+C_Woakes			10			58			2			3			5.8
+J_Archer			10			45			0			0			4.5
+L_Plunkett		10			55			3			0			5.5
+M_Wood			10			73			0			0			7.3
+A_Rashid			6			40			0			0			6.67
+B_Stokes			4			34			0			0			8.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 7
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  England	 	 	 337-7 (50)
+
+	J_Bairstow  111 (109)	 M_Shami  5-69 (10)
+	B_Stokes  79 (54)	 	J_Bumrah  1-44 (10)
+	J_Roy  66 (57)	 	K_Yadhav  1-72 (10)
+
+
+
+	  India	 	 	 306-5 (50)
+
+	R_Sharma  102 (109)	 L_Plunkett  3-55 (10)
+	V_Kohli  66 (76)	 	C_Woakes  2-58 (10)
+	H_Pandya  45 (33)	 	B_Stokes  0-34 (4)
+
+ 
+ 
+ 
+ 	
+
+			
+England Won by 31 Runs!

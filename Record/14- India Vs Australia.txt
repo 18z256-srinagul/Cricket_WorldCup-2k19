@@ -1,0 +1,113 @@
+
+ 
+ 
+ 	 	 	 Match No: 14 Out of 48 ( League match )
+
+	 	 	India VS Australia
+
+Venue: The_Oval,England
+
+
+   Toss details: 	
+	India Won the toss and choose to bat
+
+
+			India Batting 
+
+
+
+		Team score: 352 - 5  (50)	 	RR: 7.04
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+R_Sharma			57			70			81.429
+S_Dhawan		117			109			107.34
+V_Kohli			82			77			106.49
+H_Pandya			48			27			177.78
+MS_Dhoni		27			14			192.86
+KL_Rahul*		11			3			366.67
+K_Jadhav*		0			0			0
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+P_Cummins		10			55			1			0			5.5
+M_Starc			10			74			1			0			7.4
+N_Nile			10			63			1			1			6.3
+G_Maxwell		7			45			0			0			6.43
+A_Zampa			6			50			0			0			8.33
+M_Stoinis			7			62			2			0			8.86
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 10
+
+ 
+ 
+
+			Australia Batting 
+
+
+
+		Team score: 316 - 10  (50)	 	RR: 6.32
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Warner			56			84			66.667
+A_Finch			36			35			102.86
+S_Smith			69			70			98.571
+U_Khawaja		42			39			107.69
+G_Maxwell		28			14			200
+M_Stoinis			0			2			0
+A_Carey*			55			35			157.14
+N_Nile			4			9			44.444
+P_Cummins		8			7			114.29
+M_Starc			3			3			100
+A_Zampa			1			3			33.333
+
+
+			India Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+B_Kumar			10			50			3			0			5
+J_Bumrah			10			61			3			1			6.1
+H_Pandya			10			68			0			0			6.8
+K_Yadhav			9			55			0			0			6.11
+Y_Chahal			10			62			2			0			6.2
+K_Jadhav			1			14			0			0			14
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 14
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  India	 	 	 352-5 (50)
+
+	S_Dhawan  117 (109)	 M_Stoinis  2-62 (7)
+	V_Kohli  82 (77)	 	P_Cummins  1-55 (10)
+	R_Sharma  57 (70)	 	N_Nile  1-63 (10)
+
+
+
+	  Australia	 	 	 316 (50)
+
+	S_Smith  69 (70)	 	B_Kumar  3-50 (10)
+	D_Warner  56 (84)	 	J_Bumrah  3-61 (10)
+	A_Carey*  55 (35)	 	Y_Chahal  2-62 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+India Won by 36 Runs!

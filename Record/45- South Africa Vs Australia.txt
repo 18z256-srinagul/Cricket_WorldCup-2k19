@@ -1,0 +1,116 @@
+
+ 
+ 
+ 	 	 	 Match No: 45 Out of 48 ( League match )
+
+	 	 	South_Africa VS Australia
+
+Venue: Old_Trafford_Cricket_Ground,England
+
+
+   Toss details: 	
+	South_Africa Won the toss and choose to bat
+
+
+			South_Africa Batting 
+
+
+
+		Team score: 325 - 6  (50)	 	RR: 6.5
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+A_Markram		34			37			91.892
+Q_de_Kock		52			51			101.96
+F_du_Plessis		100			94			106.38
+R_van_der_Dussen		95			97			97.938
+JP_Duminy		14			13			107.69
+D_Pretorius		2			5			40
+A_Phehlukwayo*		4			3			133.33
+C_Morris*			0			0			0
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Starc			9			59			2			0			6.56
+J_Behrendorff		8			55			1			0			6.88
+N_Lyon			10			53			2			0			5.3
+P_Cummins		9			66			1			0			7.33
+S_Smith			1			5			0			0			5
+M_Stoinis			3			19			0			0			6.33
+G_Maxwell		10			57			0			0			5.7
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 24
+
+ 
+ 
+
+			Australia Batting 
+
+
+
+		Team score: 315 - 10  (49.5)	 	RR: 6.36
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Warner			122			117			104.27
+A_Finch			3			4			75
+U_Khawaja		18			14			128.57
+S_Smith			7			6			116.67
+M_Stoinis			22			34			64.706
+G_Maxwell		12			20			60
+A_Carey			85			69			123.19
+P_Cummins		9			15			60
+M_Starc			16			11			145.45
+J_Behrendorff*		11			6			183.33
+N_Lyon			3			3			100
+
+
+			South_Africa Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+I_Tahir			9			59			1			0			6.56
+K_Rabada			10			56			3			0			5.6
+D_Pretorious		6			27			2			2			4.5
+C_Morris			9			63			1			0			7
+T_Shamsi			9			62			0			0			6.89
+A_Phehlukwayo		2.5			22			2			0			8.8
+JP_Duminy		4			22			0			0			5.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 7
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  South_Africa	 	 325-6 (50)
+
+	F_du_Plessis  100 (94)	 N_Lyon  2-53 (10)
+	R_van_der_Dussen  95 (97)	 M_Starc  2-59 (9)
+	Q_de_Kock  52 (51)	 	J_Behrendorff  1-55 (8)
+
+
+
+	  Australia	 	 	 315 (49.5)
+
+	D_Warner  122 (117)	 	K_Rabada  3-56 (10)
+	A_Carey  85 (69)	 	A_Phehlukwayo  2-22 (2.5)
+	M_Stoinis  22 (34)	 	D_Pretorious  2-27 (6)
+
+ 
+ 
+ 
+ 	
+
+			
+South_Africa Won by 10 Runs!

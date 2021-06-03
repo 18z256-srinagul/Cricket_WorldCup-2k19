@@ -1,0 +1,112 @@
+
+ 
+ 
+ 	 	 	 Match No: 19 Out of 48 ( League match )
+
+	 	 	West_Indies VS England
+
+Venue: Rose_Bowl_Cricket_Ground,England
+
+
+   Toss details: 	
+	England Won the toss and choose to bowl
+
+
+			West_Indies Batting 
+
+
+
+		Team score: 212 - 10  (44.4)	 	RR: 4.77
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+C_Gayle			36			41			87.805
+E_Lewis			2			8			25
+S_Hope			11			30			36.667
+N_Pooran			63			78			80.769
+S_Hetmyer		39			48			81.25
+J_Holder			9			10			90
+A_Russell			21			16			131.25
+C_Brathwaite		14			22			63.636
+S_Cottrell			0			1			0
+O_Thomas*		0			11			0
+S_Gabriel			0			3			0
+
+
+			England Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+C_Woakes		5			16			1			2			3.2
+J_Archer			9			30			3			1			3.33
+L_Plunkett		5			30			1			0			6
+M_Wood			6.4			18			3			0			2.81
+B_Stokes			4			25			0			0			6.25
+A_Rashid			10			61			0			0			6.1
+J_Root			5			27			2			0			5.4
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 17
+
+ 
+ 
+
+			England Batting 
+
+
+
+		Team score: 213 - 2  (33.1)	 	RR: 6.44
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+J_Bairstow		45			46			97.826
+J_Root*			100			94			106.38
+C_Woakes		40			54			74.074
+B_Stokes*		10			6			166.67
+
+
+			West_Indies Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+S_Cottrell			3			17			0			0			5.67
+O_Thomas		6			43			0			0			7.17
+S_Gabriel			7			49			2			0			7
+A_Russell			2			14			0			0			7
+J_Holder			5.1			31			0			0			6.08
+C_Brathwaite		5			35			0			0			7
+C_Gayle			5			22			0			0			4.4
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 18
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  West_Indies	 	  212 (44.4)
+
+	N_Pooran  63 (78)	 	M_Wood  3-18 (6.4)
+	S_Hetmyer  39 (48)	 	J_Archer  3-30 (9)
+	C_Gayle  36 (41)	 	J_Root  2-27 (5)
+
+
+
+	  England	 	 	 213-2 (33.1)
+
+	J_Root*  100 (94)	 	S_Gabriel  2-49 (7)
+	J_Bairstow  45 (46)	 	A_Russell  0-14 (2)
+	C_Woakes  40 (54)	 	S_Cottrell  0-17 (3)
+
+ 
+ 
+ 
+ 	
+
+			
+England Won by 8 Wickets!

@@ -1,0 +1,117 @@
+
+ 
+ 
+ 	 	 	 Match No: 10 Out of 48 ( League match )
+
+	 	 	Australia VS West_Indies
+
+Venue: Trent_Bridge,England
+
+
+   Toss details: 	
+	West_Indies Won the toss and choose to bowl
+
+
+			Australia Batting 
+
+
+
+		Team score: 288 - 10  (49)	 	RR: 5.88
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Warner			3			8			37.5
+A_Finch			6			10			60
+U_Khawaja		13			19			68.421
+S_Smith			73			103			70.874
+G_Maxwell		0			2			0
+M_Stoinis			19			23			82.609
+A_Carey			45			55			81.818
+N_Nile			92			60			153.33
+P_Cummins		2			6			33.333
+M_Starc			8			9			88.889
+A_Zampa*		0			0			0
+
+
+			West_Indies Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+O_Thomas		10			63			2			0			6.3
+S_Cottrell			9			56			2			0			6.22
+A_Russell			8			41			2			0			5.12
+C_Brathwaite		10			67			3			0			6.7
+J_Holder			7			28			1			2			4
+A_Nurse			5			31			0			0			6.2
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 27
+
+ 
+ 
+
+			West_Indies Batting 
+
+
+
+		Team score: 273 - 9  (50)	 	RR: 5.46
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+C_Gayle			21			17			123.53
+E_Lewis			1			5			20
+S_Hope			68			105			64.762
+N_Pooran			40			36			111.11
+S_Hetmyer		21			28			75
+J_Holder			51			57			89.474
+A_Russell			15			11			136.36
+C_Brathwaite		16			17			94.118
+A_Nurse*			19			18			105.56
+S_Cottrell			1			2			50
+O_Thomas*		0			4			0
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Starc			10			46			5			1			4.6
+P_Cummins		10			41			2			3			4.1
+N_Nile			10			70			0			0			7
+G_Maxwell		6			31			0			1			5.17
+A_Zampa			10			58			1			0			5.8
+M_Stoinis			4			18			0			0			4.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 20
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Australia	 	 	 288 (49)
+
+	N_Nile  92 (60)	 	C_Brathwaite  3-67 (10)
+	S_Smith  73 (103)	 	A_Russell  2-41 (8)
+	A_Carey  45 (55)	 	S_Cottrell  2-56 (9)
+
+
+
+	  West_Indies	 	 273-9 (50)
+
+	S_Hope  68 (105)	 	M_Starc  5-46 (10)
+	J_Holder  51 (57)	 	P_Cummins  2-41 (10)
+	N_Pooran  40 (36)	 	A_Zampa  1-58 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+Australia Won by 15 Runs!

@@ -1,0 +1,117 @@
+
+ 
+ 
+ 	 	 	 Match No: 17 Out of 48 ( League match )
+
+	 	 	Australia VS Pakistan
+
+Venue: County_Ground,England
+
+
+   Toss details: 	
+	Pakistan Won the toss and choose to bowl
+
+
+			Australia Batting 
+
+
+
+		Team score: 307 - 10  (49)	 	RR: 6.27
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+A_Finch			82			84			97.619
+D_Warner			107			111			96.396
+S_Smith			10			13			76.923
+G_Maxwell		20			10			200
+S_Marsh			23			26			88.462
+U_Khawaja		18			16			112.5
+A_Carey			20			21			95.238
+N_Nile			2			3			66.667
+P_Cummins		2			6			33.333
+M_Starc			3			6			50
+K_Richardson*		1			1			100
+
+
+			Pakistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Amir			10			30			5			2			3
+S_Afridi			10			70			2			0			7
+H_Ali			10			67			1			0			6.7
+W_Riaz			8			44			1			0			5.5
+M_Hafeez			7			60			1			0			8.57
+S_Malik			4			26			0			0			6.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 19
+
+ 
+ 
+
+			Pakistan Batting 
+
+
+
+		Team score: 266 - 10  (45.4)	 	RR: 5.86
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+I_ul_Haq			53			75			70.667
+F_Zaman			0			3			0
+B_Azam			30			28			107.14
+M_Hafeez			46			49			93.878
+S_Ahmed			40			48			83.333
+S_Malik			0			2			0
+A_Ali			5			8			62.5
+H_Ali			32			15			213.33
+W_Riaz			45			39			115.38
+M_Amir			0			2			0
+S_Afridi			1			6			16.667
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+P_Cummins		10			33			3			0			3.3
+M_Starc			9			43			2			1			4.78
+K_Richardson		8.4			62			2			0			7.38
+N_Nile			9			53			1			0			5.89
+G_Maxwell		7			58			0			0			8.29
+A_Finch			2			13			1			0			6.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 14
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Australia	 	 	 307 (49)
+
+	D_Warner  107 (111)	 	M_Amir  5-30 (10)
+	A_Finch  82 (84)	 	S_Afridi  2-70 (10)
+	S_Marsh  23 (26)	 	W_Riaz  1-44 (8)
+
+
+
+	  Pakistan	 	 	 266 (45.4)
+
+	I_ul_Haq  53 (75)	 	P_Cummins  3-33 (10)
+	M_Hafeez  46 (49)	 	M_Starc  2-43 (9)
+	W_Riaz  45 (39)	 	K_Richardson  2-62 (8.4)
+
+ 
+ 
+ 
+ 	
+
+			
+Australia Won by 41 Runs!

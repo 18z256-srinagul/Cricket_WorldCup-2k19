@@ -1,0 +1,114 @@
+
+ 
+ 
+ 	 	 	 Match No: 5 Out of 48 ( League match )
+
+	 	 	Bangladesh VS South_Africa
+
+Venue: The_Oval,England
+
+
+   Toss details: 	
+	South_Africa Won the toss and choose to bowl
+
+
+			Bangladesh Batting 
+
+
+
+		Team score: 330 - 6  (50)	 	RR: 6.6
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+T_Iqbal			16			29			55.172
+S_Sarkar			42			30			140
+S_Al_Hasan		75			84			89.286
+M_Rahim			78			80			97.5
+M_Mithun			21			21			100
+Mahmudullah*		46			33			139.39
+M_Hossain		26			20			130
+M_Hasan*		5			3			166.67
+
+
+			South_Africa Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+L_Ngidi			4			34			0			0			8.5
+K_Rabada			10			57			0			0			5.7
+A_Phehlukwayo		10			52			2			1			5.2
+C_Morris			10			73			2			0			7.3
+A_Markram		5			38			0			0			7.6
+I_Tahir			10			57			2			0			5.7
+JP_Duminy		1			10			0			0			10
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 21
+
+ 
+ 
+
+			South_Africa Batting 
+
+
+
+		Team score: 309 - 8  (50)	 	RR: 6.18
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+Q_de_Kock		23			32			71.875
+A_Markram		45			56			80.357
+Faf_du_Plessis		62			53			116.98
+D_Miller			38			43			88.372
+R_van_der_Dussen		41			38			107.89
+JP_Duminy		45			37			121.62
+A_Phehlukwayo		8			13			61.538
+C_Morris			10			10			100
+K_Rabada*		13			9			144.44
+I_Tahir*			10			10			100
+
+
+			Bangladesh Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Rahman		10			67			3			0			6.7
+M_Hasan			10			44			1			0			4.4
+M_Saifuddin		8			57			2			1			7.12
+S_Al_Hasan		10			50			1			0			5
+M_Mortaza		6			49			0			0			8.17
+M_Hossain		6			38			0			0			6.33
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 14
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Bangladesh	 	 	 330-6 (50)
+
+	M_Rahim  78 (80)	 	A_Phehlukwayo  2-52 (10)
+	S_Al_Hasan  75 (84)	 	I_Tahir  2-57 (10)
+	Mahmudullah*  46 (33)	 C_Morris  2-73 (10)
+
+
+
+	  South_Africa	 	 	 309-8 (50)
+
+	Faf_du_Plessis  62 (53)	 M_Rahman  3-67 (10)
+	A_Markram  45 (56)	 	M_Saifuddin  2-57 (8)
+	JP_Duminy  45 (37)	 	M_Hasan  1-44 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+Bangladesh Won by 21 Runs!

@@ -1,0 +1,114 @@
+
+ 
+ 
+ 	 	 	 Match No: 12 Out of 48 ( League match )
+
+	 	 	England VS Bangladesh
+
+Venue: Sophia_Gardens,England
+
+
+   Toss details: 	
+	Bangladesh Won the toss and choose to bowl
+
+
+			England Batting 
+
+
+
+		Team score: 386 - 6  (50)	 	RR: 7.72
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+J_Roy			153			121			126.45
+J_Bairstow		51			50			102
+J_Root			21			29			72.414
+J_Buttler			64			44			145.45
+E_Morgan			35			33			106.06
+B_Stokes			6			7			85.714
+C_Woakes*		18			8			225
+L_Plunkett*		27			9			300
+
+
+			Bangladesh Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+S_Al_Hasan		10			71			0			0			7.1
+M_Mortaza		10			68			1			0			6.8
+M_Saifuddin		9			78			2			0			8.67
+M_Rahman		9			75			1			0			8.33
+M_Hasan			10			67			2			0			6.7
+M_Hossain		2			24			0			0			12
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 11
+
+ 
+ 
+
+			Bangladesh Batting 
+
+
+
+		Team score: 280 - 10  (48.5)	 	RR: 5.77
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+T_Iqbal			19			29			65.517
+S_Sarkar			2			8			25
+S_Al_Hasan		121			119			101.68
+M_Rahim			44			50			88
+M_Mithun			0			2			0
+Mahmudullah		28			41			68.293
+M_Hossain		26			16			162.5
+M_Saifuddin		5			8			62.5
+M_Hasan			12			8			150
+M_Mortaza*		4			9			44.444
+M_Rahman		0			3			0
+
+
+			England Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+C_Woakes		8			67			0			0			8.38
+J_Archer			8.5			29			3			2			3.41
+L_Plunkett		8			36			1			0			4.5
+M_Wood			8			52			2			0			6.5
+A_Rashid			10			64			1			0			6.4
+B_Stokes			6			23			3			1			3.83
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 19
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  England	 	 	 386-6 (50)
+
+	J_Roy  153 (121)	 	M_Hasan  2-67 (10)
+	J_Buttler  64 (44)	 	M_Saifuddin  2-78 (9)
+	J_Bairstow  51 (50)	 	M_Mortaza  1-68 (10)
+
+
+
+	  Bangladesh	 	 280 (48.5)
+
+	S_Al_Hasan  121 (119)	 B_Stokes  3-23 (6)
+	M_Rahim  44 (50)	 	J_Archer  3-29 (8.5)
+	Mahmudullah  28 (41)	 M_Wood  2-52 (8)
+
+ 
+ 
+ 
+ 	
+
+			
+England Won by 106 Runs!

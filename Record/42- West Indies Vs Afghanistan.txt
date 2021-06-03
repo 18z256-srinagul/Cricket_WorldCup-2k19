@@ -1,0 +1,115 @@
+
+ 
+ 
+ 	 	 	 Match No: 42 Out of 48 ( League match )
+
+	 	 	West_Indies VS Afghanistan
+
+Venue: Headingley_Carneige,England
+
+
+   Toss details: 	
+	West_Indies Won the toss and choose to bat
+
+
+			West_Indies Batting 
+
+
+
+		Team score: 311 - 6  (50)	 	RR: 6.22
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+C_Gayle			7			18			38.889
+E_Lewis			58			78			74.359
+S_Hope			77			92			83.696
+S_Hetmyer		39			31			125.81
+N_Pooran			58			43			134.88
+J_Holder			45			34			132.35
+C_Brathwaite*		14			4			350
+F_Allen*			0			0			0
+
+
+			Afghanistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_U_Rahman		10			52			0			0			5.2
+D_Zadran			9			73			2			1			8.11
+S_Shirzad			8			56			1			0			7
+G_Naib			3			18			0			0			6
+M_Nabi			10			56			1			0			5.6
+R_Khan			10			52			1			0			5.2
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 13
+
+ 
+ 
+
+			Afghanistan Batting 
+
+
+
+		Team score: 288 - 10  (50)	 	RR: 5.76
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+G_Naib			5			6			83.333
+R_Shah			62			78			79.487
+I_Khil			86			93			92.473
+N_Zadran			31			38			81.579
+A_Stanikzai		40			32			125
+M_Nabi			2			6			33.333
+S_Shenwari		6			9			66.667
+R_Khan			9			16			56.25
+D_Zadran			1			2			50
+S_Shirzad			25			17			147.06
+M_U_Rahman*		7			5			140
+
+
+			West_Indies Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+S_Cottrell			7			43			0			0			6.14
+K_Roach			10			37			3			2			3.7
+O_Thomas		                 7			43			1			0			6.14
+J_Holder			8			46			0			0			5.75
+F_Allen			3			26			0			0			8.67
+C_Brathwaite		9			63			4			0			7
+C_Gayle			6			28			1			0			4.67
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 14
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  West_Indies	 	 	 311-6 (50)
+
+	S_Hope  77 (92)	 	D_Zadran  2-73 (9)
+	E_Lewis  58 (78)	 	R_Khan  1-52 (10)
+	N_Pooran  58 (43)	 	S_Shirzad  1-56 (8)
+
+
+
+	  Afghanistan	 	 	 288 (50)
+
+	I_Khil  86 (93)	 	C_Brathwaite  4-63 (9)
+	R_Shah  62 (78)	 	K_Roach  3-37 (10)
+	A_Stanikzai  40 (32)	 	C_Gayle  1-28 (6)
+
+ 
+ 
+ 
+ 	
+
+			
+West_Indies Won by 23 Runs!

@@ -1,0 +1,114 @@
+
+ 
+ 
+ 	 	 	 Match No: 20 Out of 48 ( League match )
+
+	 	 	Australia VS Sri_Lanka
+
+Venue: The_Oval,England
+
+
+   Toss details: 	
+	Sri_Lanka Won the toss and choose to bowl
+
+
+			Australia Batting 
+
+
+
+		Team score: 334 - 7  (50)	 	RR: 6.68
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Warner			26			48			54.167
+A_Finch			153			132			115.91
+U_Khawaja		10			20			50
+S_Smith			73			59			123.73
+G_Maxwell*		46			25			184
+S_Marsh			3			9			33.333
+A_Carey			4			3			133.33
+P_Cummins		0			1			0
+M_Starc*			5			4			125
+
+
+			Sri_Lanka Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+L_Malinga			10			61			1			1			6.1
+N_Pradeep		10			88			0			0			8.8
+I_Udana			10			57			2			0			5.7
+T_Perera			10			67			0			0			6.7
+D_de_Silva		8			40			2			0			5
+M_Siriwardana		2			17			0			0			8.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 14
+
+ 
+ 
+
+			Sri_Lanka Batting 
+
+
+
+		Team score: 247 - 10  (45.5)	 	RR: 5.43
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Karunaratne		97			108			89.815
+K_Perera			52			36			144.44
+L_Thirimanne		16			26			61.538
+K_Mendis			30			37			81.081
+A_Mathews		9			11			81.818
+M_Siriwardana		3			4			75
+T_Perera			7			3			233.33
+D_de_Silva*		16			30			53.333
+I_Udana			8			8			100
+L_Malinga			1			5			20
+N_Pradeep		0			7			0
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Starc			10			55			4			0			5.5
+P_Cummins		7.5			38			2			0			5.07
+J_Behrendoff		9			59			1			0			6.56
+K_Richardson		9			47			3			1			5.22
+G_Maxwell		10			46			0			0			4.6
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 8
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Australia	 	 	 334-7 (50)
+
+	A_Finch  153 (132)	 	D_de_Silva  2-40 (8)
+	S_Smith  73 (59)	 	I_Udana  2-57 (10)
+	G_Maxwell*  46 (25)	 	L_Malinga  1-61 (10)
+
+
+
+	  Sri_Lanka	 	 247 (45.5)
+
+	D_Karunaratne  97 (108)	 M_Starc  4-55 (10)
+	K_Perera  52 (36)	 	K_Richardson  3-47 (9)
+	K_Mendis  30 (37)	 	P_Cummins  2-38 (7.5)
+
+ 
+ 
+ 
+ 	
+
+			
+Australia Won by 87 Runs!

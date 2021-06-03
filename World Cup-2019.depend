@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560529982 source:c:\new folder\codeblocks\world cup-2019\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<string>
+	<fstream>
+

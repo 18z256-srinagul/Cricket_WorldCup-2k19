@@ -1,0 +1,107 @@
+
+ 
+ 
+ 	 	 	 Match No: 2 Out of 48 ( League match )
+
+	 	 	Pakistan VS West_Indies
+
+Venue: Trent_Bridge,England
+
+
+   Toss details: 	
+	West_Indies Won the toss and choose to bowl
+
+
+			Pakistan Batting 
+
+
+
+		Team score: 105 - 10  (21.4)	 	RR: 4.91
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+Imam_Ul_Haq		2			11			18.182
+F_Zaman			22			16			137.5
+B_Azam			22			33			66.667
+H_Sohail			8			11			72.727
+S_Ahmed			8			12			66.667
+M_Hafeez			16			24			66.667
+I_Wasim			1			3			33.333
+S_Khan			0			1			0
+H_Ali			1			4			25
+W_Riaz			18			11			163.64
+M_Amir*			3			6			50
+
+
+			West_Indies Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+S_Cottrell			4			18			1			0			4.5
+J_Holder			5			42			3			0			8.4
+A_Russell			3			4			2			1			1.33
+C_Brathwaite		4			14			0			0			3.5
+O_Thomas		5.4			27			4			0			5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 4
+
+ 
+ 
+
+			West_Indies Batting 
+
+
+
+		Team score: 108 - 3  (13.4)	 	RR: 8.06
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+C_Gayle			50			34			147.06
+S_Hope			11			17			64.706
+D_Bravo			0			4			0
+N_Pooran*		34			19			178.95
+S_Hetmyer*		7			8			87.5
+
+
+			Pakistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Amir			6			26			3			0			4.33
+H_Ali			4			39			0			0			9.75
+W_Riaz			3.4			40			0			1			11.8
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 6
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Pakistan	 	 	 105 (21.4)
+ 
+	F_Zaman  22 (16)	 	O_Thomas  4-27 (5.4)
+	B_Azam  22 (33)	 	J_Holder  3-42 (5)
+	W_Riaz  18 (11)	 	A_Russell  2-4 (3)
+
+
+
+	West_Indies	 	 108-3 (13.4)
+
+	C_Gayle  50 (34)	 	M_Amir  3-26 (6)
+	N_Pooran*  34 (19)	 	H_Ali  0-39 (4)
+	S_Hope  11 (17)	 	W_Riaz  0-40 (3.4)
+
+ 
+ 
+ 
+ 	
+
+			
+West_Indies Won by 7 Wickets!

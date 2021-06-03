@@ -1,0 +1,111 @@
+
+ 
+ 
+ 	 	 	 Match No: 8 Out of 48 ( League match )
+
+	 	 	South_Africa VS India
+
+Venue: Rose_Bowl_Cricket_Stadium,England
+
+
+   Toss details: 	
+	South_Africa Won the toss and choose to bat
+
+
+			South_Africa Batting 
+
+
+
+		Team score: 227 - 9  (50)	 	RR: 4.54
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+H_Amla			6			9			66.667
+Q_De_Kock		10			17			58.824
+F_du_Plessis		38			54			70.37
+R_van_der_Dussan		22			37			59.459
+D_Miller			31			40			77.5
+JP_Duminy		3			11			27.273
+A_Phehlukwayo		34			61			55.738
+C_Morris			42			34			123.53
+K_Rabada*		31			35			88.571
+I_Tahir			0			2			0
+T_Shahmsi*		0			0			0
+
+
+			India Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+B_Kumar			10			44			2			0			4.4
+J_Bumrah			10			35			2			1			3.5
+H_Pandya			6			31			0			0			5.17
+K_Yadav			10			46			1			0			4.6
+Y_Chahal			10			51			4			0			5.1
+K_Jadhav			4			16			0			0			4
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 10
+
+ 
+ 
+
+			India Batting 
+
+
+
+		Team score: 230 - 4  (47.3)	 	RR: 4.86
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+S_Dhawan		8			12			66.667
+R_Sharma*		122			144			84.722
+V_Kholi			18			34			52.941
+KL_Rahul			26			42			61.905
+MS_Dhoni		34			46			73.913
+H_Pandya*		15			7			214.29
+
+
+			South_Africa Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+I_Tahir			10			58			0			0			5.8
+K_Rabada			10			39			2			1			3.9
+C_Morris			10			36			1			3			3.6
+A_Phehlukwayo		8.3			40			1			0			4.82
+T_Shamsi			9			54			0			0			6
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 7
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  South_Africa	 	 	 227-9 (50)
+
+	C_Morris  42 (34)	 	Y_Chahal  4-51 (10)
+	F_du_Plessis  38 (54)	 J_Bumrah  2-35 (10)
+	A_Phehlukwayo  34 (61)	 B_Kumar  2-44 (10)
+
+
+
+	  India	 	 	 230-4 (47.3)
+
+	R_Sharma*  122 (144)	 K_Rabada  2-39 (10)
+	MS_Dhoni  34 (46)	 	C_Morris  1-36 (10)
+	KL_Rahul  26 (42)	 	A_Phehlukwayo  1-40 (8.3)
+
+ 
+ 
+ 
+ 	
+
+			
+India Won by 6 Wickets!

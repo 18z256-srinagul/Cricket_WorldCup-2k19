@@ -1,0 +1,115 @@
+
+ 
+ 
+ 	 	 	 Match No: 31 Out of 48 ( League match )
+
+	 	 	Bangladesh VS Afghanistan
+
+Venue: Rose_Bowl_Cricket_Ground,England
+
+
+   Toss details: 	
+	Afghanistan Won the toss and choose to bowl
+
+
+			Bangladesh Batting 
+
+
+
+		Team score: 262 - 7  (50)	 	RR: 5.24
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+L_Das			16			17			94.118
+T_Iqbal			36			53			67.925
+S_Al_Hasan		51			69			73.913
+M_Rahim			83			87			95.402
+S_Sarkar			3			10			30
+Mahmudullah		27			38			71.053
+M_Hossain		35			24			145.83
+M_Saifuddin*		2			2			100
+M_Hasan*		0			0			0
+
+
+			Afghanistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_U_Rahman		10			39			3			0			3.9
+D_Zadran			9			64			1			0			7.11
+M_Nabi			10			44			1			0			4.4
+G_Naib			10			56			2			1			5.6
+R_Khan			10			52			0			0			5.2
+R_Shah			1			7			0			0			7
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 9
+
+ 
+ 
+
+			Afghanistan Batting 
+
+
+
+		Team score: 200 - 10  (47)	 	RR: 4.26
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+G_Naib			47			75			62.667
+R_Shah			24			35			68.571
+H_Shahidi			11			31			35.484
+A_Stanikzai		20			38			52.632
+M_Nabi			0			2			0
+S_Shenwari*		49			51			96.078
+I_Khil			11			12			91.667
+N_Zadran			23			23			100
+R_Khan			2			3			66.667
+D_Zadran			0			8			0
+M_U_Rahman		0			4			0
+
+
+			Bangladesh Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Mortaza		7			37			0			0			5.29
+M_Rahman		8			32			2			1			4
+M_Saifuddin		8			33			1			0			4.12
+S_Al_Hasan		10			29			5			1			2.9
+M_Hasan			8			37			0			0			4.62
+M_Hossain		6			25			1			0			4.17
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 13
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Bangladesh	 	 	 262-7 (50)
+
+	M_Rahim  83 (87)	 	M_U_Rahman  3-39 (10)
+	S_Al_Hasan  51 (69)	 	G_Naib  2-56 (10)
+	T_Iqbal  36 (53)	 	M_Nabi  1-44 (10)
+
+
+
+	  Afghanistan	 	 	 200 (47)
+
+	S_Shenwari*  49 (51)	 S_Al_Hasan  5-29 (10)
+	G_Naib  47 (75)	 	M_Rahman  2-32 (8)
+	R_Shah  24 (35)	 	M_Hossain  1-25 (6)
+
+ 
+ 
+ 
+ 	
+
+			
+Bangladesh Won by 62 Runs!

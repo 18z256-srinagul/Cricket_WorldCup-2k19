@@ -1,0 +1,107 @@
+
+ 
+ 
+ 	 	 	 Match No: 44 Out of 48 ( League match )
+
+	 	 	India VS Sri_Lanka
+
+Venue: Headingley_Carnegie,England
+
+
+   Toss details: 	
+	Sri_Lanka Won the toss and choose to bat
+
+
+			Sri_Lanka Batting 
+
+
+
+		Team score: 264 - 7  (50)	 	RR: 5.28
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Karunaratne		10			17			58.824
+K_Perera			18			14			128.57
+A_Fernando		20			21			95.238
+K_Mendis			3			13			23.077
+A_Mathews		113			128			88.281
+L_Thirimanne		53			68			77.941
+D_de_Silva*		29			36			80.556
+T_Perera			2			3			66.667
+I_Udana*			1			1			100
+
+
+			India Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+B_Kumar			10			73			1			0			7.3
+J_Bumrah			10			37			3			2			3.7
+H_Pandya			10			50			1			0			5
+R_Jadeja			10			40			1			0			4
+K_Yadhav			10			58			1			0			5.8
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 15
+
+ 
+ 
+
+			India Batting 
+
+
+
+		Team score: 265 - 3  (43.3)	 	RR: 6.12
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+KL_Rahul			111			118			94.068
+R_Sharma			103			94			109.57
+V_Kohli*			34			41			82.927
+R_Pant			4			4			100
+H_Pandya*		7			4			175
+
+
+			Sri_Lanka Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+L_Malinga			10			82			1			1			8.2
+K_Rajitha			8			47			1			0			5.88
+I_Udana			9.3			50			1			0			5.38
+T_Perera			10			34			0			0			3.4
+D_de_Silva			6			51			0			0			8.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 6
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Sri_Lanka	 	  264-7 (50)
+
+	A_Mathews  113 (128)	 J_Bumrah  3-37 (10)
+	L_Thirimanne  53 (68)	 R_Jadeja  1-40 (10)
+	D_de_Silva*  29 (36)	 	H_Pandya  1-50 (10)
+
+
+
+	  India	 	 	 265-3 (43.3)
+
+	KL_Rahul  111 (118)	 	K_Rajitha  1-47 (8)
+	R_Sharma  103 (94)	 	I_Udana  1-50 (9.3)
+	V_Kohli*  34 (41)	 	L_Malinga  1-82 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+India Won by 7 Wickets!

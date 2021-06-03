@@ -1,0 +1,112 @@
+
+ 
+ 
+ 	 	 	 Match No: 26 Out of 48 ( League match )
+
+	 	 	Australia VS Bangladesh
+
+Venue: Trent_Bridge,England
+
+
+   Toss details: 	
+	Australia Won the toss and choose to bat
+
+
+			Australia Batting 
+
+
+
+		Team score: 381 - 5  (50)	 	RR: 7.62
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Warner			166			147			112.93
+A_Finch			53			51			103.92
+U_Khawaja		89			72			123.61
+G_Maxwell		32			10			320
+M_Stoinis*		17			11			154.55
+S_Smith			1			2			50
+A_Carey*			11			8			137.5
+
+
+			Bangladesh Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Mortaza		8			56			0			0			7
+M_Rahim			9			69			1			0			7.67
+S_Al_Hasan		6			50			0			0			8.33
+R_Hossain		9			83			0			0			9.22
+M_Hasan			10			59			0			0			5.9
+S_Sarkar			8			58			3			0			7.25
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 12
+
+ 
+ 
+
+			Bangladesh Batting 
+
+
+
+		Team score: 333 - 8  (50)	 	RR: 6.66
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+T_Iqbal			62			74			83.784
+S_Sarkar			10			8			125
+S_Al_Hasan		41			41			100
+M_Rahim*		102			97			105.15
+L_Das			20			17			117.65
+Mahmudullah		69			50			138
+S_Rahman		0			1			0
+M_Hasan			6			7			85.714
+M_Mortaza		6			5			120
+R_Hossain*		0			0			0
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Starc			10			55			2			0			5.5
+P_Cummins		10			65			0			1			6.5
+G_Maxwell		3			25			0			0			8.33
+N_Nile			10			58			2			0			5.8
+M_Stoinis			8			54			2			0			6.75
+A_Zampa			9			68			1			0			7.56
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 17
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Australia	 	 	 381-5 (50)
+
+	D_Warner  166 (147)	 	S_Sarkar  3-58 (8)
+	U_Khawaja  89 (72)	 	M_Rahim  1-69 (9)
+	A_Finch  53 (51)	 	S_Al_Hasan  0-50 (6)
+
+
+
+	  Bangladesh	 	 333-8 (50)
+
+	M_Rahim*  102 (97)	 	M_Stoinis  2-54 (8)
+	Mahmudullah  69 (50)	 M_Starc  2-55 (10)
+	T_Iqbal  62 (74)	 	N_Nile  2-58 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+Australia Won by 48 Runs!

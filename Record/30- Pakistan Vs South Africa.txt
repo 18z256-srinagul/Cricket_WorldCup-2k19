@@ -1,0 +1,115 @@
+
+ 
+ 
+ 	 	 	 Match No: 30 Out of 48 ( League match )
+
+	 	 	Pakistan VS South_Africa
+
+Venue: Lords,England
+
+
+   Toss details: 	
+	Pakistan Won the toss and choose to bat
+
+
+			Pakistan Batting 
+
+
+
+		Team score: 308 - 7  (50)	 	RR: 6.16
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+I_ul_Haq			44			58			75.862
+F_Zaman			44			50			88
+B_Azam			69			80			86.25
+M_Hafeez			20			33			60.606
+H_Sohail			89			59			150.85
+I_Wasim			23			15			153.33
+W_Riaz			4			4			100
+S_Ahmed*		2			2			100
+S_Khan*			1			1			100
+
+
+			South_Africa Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+K_Rabada			10			65			0			0			6.5
+L_Ngidi			9			64			3			0			7.11
+C_Morris			9			61			0			0			6.78
+A_Phehlukwayo		8			49			1			0			6.12
+I_Tahir			10			41			2			0			4.1
+A_Markram		4			22			1			0			5.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 12
+
+ 
+ 
+
+			South_Africa Batting 
+
+
+
+		Team score: 259 - 9  (50)	 	RR: 5.18
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+H_Amla			2			3			66.667
+Q_de_Kock		47			60			78.333
+F_du_Plessis		63			79			79.747
+A_Markram		7			16			43.75
+R_van_der_Dussen		36			47			76.596
+D_Miller			31			37			83.784
+A_Phehlukwayo*		46			32			143.75
+C_Morris			16			10			160
+K_Rabada			3			7			42.857
+L_Ngidi			1			6			16.667
+I_Tahir*			1			3			33.333
+
+
+			Pakistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Hafeez			2			11			0			0			5.5
+M_Amir			10			49			2			1			4.9
+S_Afridi			8			54			1			0			6.75
+I_Wasim			10			48			0			0			4.8
+W_Riaz			10			46			3			0			4.6
+S_Khan			10			50			3			1			5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 6
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Pakistan	 	 	 308-7 (50)
+
+	H_Sohail  89 (59)	 	L_Ngidi  3-64 (9)
+	B_Azam  69 (80)	 	I_Tahir  2-41 (10)
+	I_ul_Haq  44 (58)	 	A_Markram  1-22 (4)
+
+
+
+	  South_Africa	 	 	 259-9 (50)
+
+	F_du_Plessis  63 (79)	 W_Riaz  3-46 (10)
+	Q_de_Kock  47 (60)	 	S_Khan  3-50 (10)
+	A_Phehlukwayo*  46 (32)	M_Amir  2-49 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+Pakistan Won by 49 Runs!

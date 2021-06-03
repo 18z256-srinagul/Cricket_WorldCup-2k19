@@ -1,0 +1,116 @@
+
+ 
+ 
+ 	 	 	 Match No: 9 Out of 48 ( League match )
+
+	 	 	Bangladesh VS New_Zealand
+
+Venue: The_Oval,England
+
+
+   Toss details: 	
+	New_Zealand Won the toss and choose to bowl
+
+
+			Bangladesh Batting 
+
+
+
+		Team score: 244 - 10  (49.2)	 	RR: 4.96
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+T_Iqbal			24			38			63.158
+S_Sarkar			25			25			100
+S_Al_Hasan		64			68			94.118
+M_Rahim			19			35			54.286
+M_Mithun			26			33			78.788
+Mahmudullah		20			41			48.78
+M_Hossain		11			22			50
+M_Saifuddin		29			23			126.09
+M_Hasan			7			9			77.778
+M_Mortaza		1			2			50
+M_Rahman*		0			0			0
+
+
+			New_Zealand Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Henry			9.2			47			4			0			5.11
+T_Boult			10			44			2			0			4.4
+L_Ferguson		10			40			1			0			4
+C_de_Grandhomme		8			39			1			0			4.88
+J_Neesham		2			24			0			0			12
+M_Santner		10			41			1			1			4.1
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 18
+
+ 
+ 
+
+			New_Zealand Batting 
+
+
+
+		Team score: 248 - 8  (47.1)	 	RR: 5.27
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+M_Guptil			25			14			178.57
+C_Munro			24			34			70.588
+K_Williamson		40			72			55.556
+R_Taylor			82			91			90.11
+T_Latham			0			4			0
+J_Neesham		25			33			75.758
+C_de_Grandhomme		15			13			115.38
+M_Santner*		17			12			141.67
+M_Henry			6			8			75
+L_Ferguson*		4			3			133.33
+
+
+			Bangladesh Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Mortaza		5			32			0			0			6.4
+M_Hasan			10			47			2			0			4.7
+M_Rahman		7.1			48			0			0			6.76
+S_Al_Hasan		10			47			2			0			4.7
+M_Saifuddin		7			41			2			0			5.86
+M_Hossain		8			33			2			0			4.12
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 10
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Bangladesh	 	 	 244 (49.2)
+
+	S_Al_Hasan  64 (68)	 	M_Henry  4-47 (9.2)
+	M_Saifuddin  29 (23)	 T_Boult  2-44 (10)
+	M_Mithun  26 (33)	 	C_de_Grandhomme  1-39 (8)
+
+
+
+	  New_Zealand	 	 	 248-8 (47.1)
+
+	R_Taylor  82 (91)	 	M_Hossain  2-33 (8)
+	K_Williamson  40 (72)	 M_Saifuddin  2-41 (7)
+	M_Guptil  25 (14)	 	M_Hasan  2-47 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+New_Zealand Won by 2 Wickets!

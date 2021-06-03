@@ -1,0 +1,110 @@
+
+ 
+ 
+ 	 	 	 Match No: 47 Out of 48 ( Semi-Finals match )
+
+	 	 	England VS Australia
+
+Venue: Edgbaston,England
+
+
+   Toss details: 	
+	Australia Won the toss and choose to bat
+
+
+			Australia Batting 
+
+
+
+		Team score: 223 - 10  (49)	 	RR: 4.55
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Warner			9			11			81.818
+A_Finch			0			1			0
+S_Smith			85			119			71.429
+P_Handscomb		4			12			33.333
+A_Carey			46			70			65.714
+M_Stoinis			0			2			0
+G_Maxwell		22			23			95.652
+P_Cummins		6			10			60
+M_Starc			29			36			80.556
+J_Behrendorff		1			4			25
+N_Lyon*			5			6			83.333
+
+
+			England Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+C_Woakes			8			20			3			0			2.5
+J_Archer			10			32			2			0			3.2
+B_Stokes			4			22			0			0			5.5
+M_Wood			9			45			1			0			5
+L_Plunkett		8			44			0			0			5.5
+A_Rashid			10			54			3			0			5.4
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 16
+
+ 
+ 
+
+			England Batting 
+
+
+
+		Team score: 226 - 2  (32.1)	 	RR: 7.04
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+J_Roy			85			65			130.77
+J_Bairstow		34			43			79.07
+J_Root*			49			46			106.52
+E_Morgan*		45			39			115.38
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+J_Behrendorff		8.1			38			0			2			4.69
+M_Starc			9			70			1			0			7.78
+P_Cummins		7			34			1			0			4.86
+N_Lyon			5			49			0			0			9.8
+S_Smith			1			21			0			0			21
+M_Stoinis			2			13			0			0			6.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 13
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Australia	 	 	 223 (49)
+
+	S_Smith  85 (119)	 	C_Woakes  3-20 (8)
+	A_Carey  46 (70)	 	A_Rashid  3-54 (10)
+	M_Starc  29 (36)	 	J_Archer  2-32 (10)
+
+
+
+	  England	 	 	 226-2 (32.1)
+
+	J_Roy  85 (65)	 	P_Cummins  1-34 (7)
+	J_Root*  49 (46)	 	M_Starc  1-70 (9)
+	E_Morgan*  45 (39)	 	M_Stoinis  0-13 (2)
+
+ 
+ 
+ 
+ 	
+
+			
+England Won by 8 Wickets!

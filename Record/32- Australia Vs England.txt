@@ -1,0 +1,115 @@
+
+ 
+ 
+ 	 	 	 Match No: 32 Out of 48 ( League match )
+
+	 	 	Australia VS England
+
+Venue: Lords,England
+
+
+   Toss details: 	
+	England Won the toss and choose to bowl
+
+
+			Australia Batting 
+
+
+
+		Team score: 285 - 7  (50)	 	RR: 5.7
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+A_Finch			100			116			86.207
+D_Warner			53			61			86.885
+U_Khawaja		23			29			79.31
+S_Smith			38			34			111.76
+G_Maxwell		12			8			150
+M_Stoinis			8			15			53.333
+A_Carey*			38			27			140.74
+P_Cummins		1			4			25
+M_Starc*			4			6			66.667
+
+
+			England Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+C_Woakes			10			46			2			0			4.6
+J_Archer			9			56			1			0			6.22
+M_Wood			9			59			1			0			6.56
+B_Stokes			6			29			1			0			4.83
+M_Ali			6			42			1			0			7
+A_Rashid			10			49			0			0			4.9
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 8
+
+ 
+ 
+
+			England Batting 
+
+
+
+		Team score: 221 - 10  (44.4)	 	RR: 4.98
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+J_Vince			0			2			0
+J_Bairstow		27			39			69.231
+J_Root			8			9			88.889
+E_Morgan			4			7			57.143
+B_Stokes			89			115			77.391
+J_Buttler			25			27			92.593
+C_Woakes			26			34			76.471
+M_Ali			6			9			66.667
+A_Rashid			25			20			125
+J_Archer			1			4			25
+M_Wood*			1			2			50
+
+
+			Australia Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+J_Behrendorff		10			44			5			0			4.4
+M_Starc			8.4			43			4			1			5.12
+P_Cummins		8			41			0			1			5.12
+N_Lyon			9			43			0			0			4.78
+M_Stoinis			7			29			1			0			4.14
+G_Maxwell		2			15			0			0			7.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 9
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Australia	 	 	 285-7 (50)
+
+	A_Finch  100 (116)	 	C_Woakes  2-46 (10)
+	D_Warner  53 (61)	 	B_Stokes  1-29 (6)
+	S_Smith  38 (34)	 	M_Ali  1-42 (6)
+
+
+
+	  England	 	 	 221 (44.4)
+
+	B_Stokes  89 (115)	 	J_Behrendorff  5-44 (10)
+	J_Bairstow  27 (39)	 	M_Starc  4-43 (8.4)
+	C_Woakes  26 (34)	 	M_Stoinis  1-29 (7)
+
+ 
+ 
+ 
+ 	
+
+			
+Australia Won by 64 Runs!

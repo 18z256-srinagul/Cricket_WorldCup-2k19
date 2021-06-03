@@ -1,0 +1,117 @@
+
+ 
+ 
+ 	 	 	 Match No: 40 Out of 48 ( League match )
+
+	 	 	India VS Bangladesh
+
+Venue: Edgbaston
+
+
+   Toss details: 	
+	India Won the toss and choose to bat
+
+
+			India Batting 
+
+
+
+		Team score: 314 - 9  (50)	 	RR: 6.28
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+KL_Rahul			77			92			83.696
+R_Sharma			104			92			113.04
+V_Kohli			26			27			96.296
+R_Pant			48			41			117.07
+H_Pandya			0			2			0
+MS_Dhoni			35			33			106.06
+D_Karthik			8			9			88.889
+B_Kumar			2			3			66.667
+M_Shami			1			2			50
+J_Bumrah*		0			0			0
+Y_Chahal*		0			0			0
+
+
+			Bangladesh Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Mortaza		5			36			0			0			7.2
+M_Saifuddin		7			59			0			0			8.43
+M_Rahman		10			59			5			1			5.9
+S_Al_Hasan		10			41			1			0			4.1
+M_Hossain		4			32			0			0			8
+R_Hossain		8			48			1			0			6
+S_Sarkar			6			33			1			0			5.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 13
+
+ 
+ 
+
+			Bangladesh Batting 
+
+
+
+		Team score: 286 - 10  (48)	 	RR: 5.96
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+T_Iqbal			22			31			70.968
+S_Sarkar			33			38			86.842
+S_Al_Hasan		66			74			89.189
+M_Rahim			24			23			104.35
+L_Das			22			24			91.667
+M_Hossain		3			7			42.857
+S_Rahman		36			36			100
+M_Saifuddin*		51			38			134.21
+M_Mortaza		8			5			160
+R_Hossain		9			11			81.818
+M_Rahman		0			1			0
+
+
+			India Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+B_Kumar			9			51			1			0			5.67
+J_Bumrah			10			55			4			1			5.5
+M_Shami			9			68			1			0			7.56
+Y_Chahal			10			50			1			0			5
+H_Pandya			10			60			3			0			6
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 12
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  India	 	 	 314-9 (50)
+
+	R_Sharma  104 (92)	 	M_Rahman  5-59 (10)
+	KL_Rahul  77 (92)	 	S_Sarkar  1-33 (6)
+	R_Pant  48 (41)	 	S_Al_Hasan  1-41 (10)
+
+
+
+	  Bangladesh	 	 286 (48)
+
+	S_Al_Hasan  66 (74)	 	J_Bumrah  4-55 (10)
+	M_Saifuddin*  51 (38)	 H_Pandya  3-60 (10)
+	S_Rahman  36 (36)	 	Y_Chahal  1-50 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+India Won by 28 Runs!

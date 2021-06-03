@@ -1,0 +1,117 @@
+
+ 
+ 
+ 	 	 	 Match No: 7 Out of 48 ( League match )
+
+	 	 	Sri_Lanka VS Afghanistan
+
+Venue: Sophia_Gardens,England
+
+
+   Toss details: 	
+	Afghanistan Won the toss and choose to bowl
+
+
+			Sri_Lanka Batting 
+
+
+
+		Team score: 201 - 10  (36.5)	 	RR: 5.51
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+D_Karunaratne		30			45			66.667
+K_Perera			78			81			96.296
+L_Thirimanne		25			34			73.529
+K_Mendis			2			2			100
+A_Mathews		0			2			0
+D_de_Silva		0			4			0
+T_Perera			2			4			50
+I_Udana			10			21			47.619
+S_Lakmal*		15			13			115.38
+L_Malinga			4			14			28.571
+N_Pradeep		0			4			0
+
+
+			Afghanistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+D_Zadran			6			34			2			0			5.67
+H_Hassan			7			53			1			0			7.57
+M_U_Rahman		3			19			0			0			6.33
+M_Nabi			9			30			4			0			3.33
+G_Naib			4			38			0			0			9.5
+R_Khan			7.5			17			2			1			2.27
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 35
+
+ 
+ 
+
+			Afghanistan Batting 
+
+
+
+		Team score: 152 - 10  (32.4)	 	RR: 4.69
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+M_Shahzad		7			12			58.333
+Hazratullah		30			25			120
+R_Shah			2			11			18.182
+H_Shahidi			4			17			23.529
+M_Nabi			11			16			68.75
+G_Naib			23			32			71.875
+N_Zadran			43			56			76.786
+R_Khan			2			4			50
+D_Zadran			6			18			33.333
+H_Hassan			6			5			120
+M_U_Rahman*		1			1			100
+
+
+			Sri_Lanka Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+L_Malinga			6.4			39			3			0			6.09
+S_Lakmal			6			27			0			0			4.5
+I_Udana			6			28			1			0			4.67
+N_Pradeep		9			31			4			1			3.44
+T_Perera			4			19			1			0			4.75
+D_de_Silva		1			7			0			0			7
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 17
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Sri_Lanka	 	 	 201 (36.5)
+
+	K_Perera  78 (81)	 	M_Nabi  4-30 (9)
+	D_Karunaratne  30 (45)	 R_Khan  2-17 (7.5)
+	L_Thirimanne  25 (34)	 D_Zadran  2-34 (6)
+
+
+
+	  Afghanistan	 	 	 152 (32.4)
+
+	N_Zadran  43 (56)	 	N_Pradeep  4-31 (9)
+	Hazratullah  30 (25)	 	L_Malinga  3-39 (6.4)
+	G_Naib  23 (32)	 	T_Perera  1-19 (4)
+
+ 
+ 
+ 
+ 	
+
+			
+Sri_Lanka Won by 49 Runs!    (Sri_Lanka won by 34 Runs! by DLS method)

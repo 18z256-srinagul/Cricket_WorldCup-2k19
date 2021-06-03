@@ -1,0 +1,117 @@
+
+ 
+ 
+ 	 	 	 Match No: 29 Out of 48 ( League match )
+
+	 	 	New_Zealand VS West_Indies
+
+Venue: Old_Trafford_Cricket_Ground,England
+
+
+   Toss details: 	
+	West_Indies Won the toss and choose to bowl
+
+
+			New_Zealand Batting 
+
+
+
+		Team score: 291 - 8  (50)	 	RR: 5.82
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+M_Guptill			0			1			0
+C_Munro			0			1			0
+K_Williamson		148			154			96.104
+R_Taylor			69			95			72.632
+T_Latham			12			16			75
+J_Neesham		28			23			121.74
+C_de_Grandhomme		16			6			266.67
+M_Santner		10			5			200
+M_Henry*			0			0			0
+L_Ferguson*		0			0			0
+
+
+			West_Indies Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+S_Cotterll			10			56			4			1			5.6
+K_Roach			10			38			0			2			3.8
+J_Holder			7			42			0			0			6
+O_Thomas		6			30			0			0			5
+C_Brathwaite		6			58			2			0			9.67
+A_Nurse			9			55			0			0			6.11
+C_Gayle			2			8			1			0			4
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 8
+
+ 
+ 
+
+			West_Indies Batting 
+
+
+
+		Team score: 286 - 10  (49)	 	RR: 5.84
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+C_Gayle			87			84			103.57
+S_Hope			1			3			33.333
+N_Pooran			1			7			14.286
+S_Hetmyer		54			45			120
+J_Holder			0			1			0
+C_Brathwaite		101			82			123.17
+A_Nurse			1			8			12.5
+E_Lewis			0			3			0
+K_Roach			14			31			45.161
+S_Cottrell			15			26			57.692
+O_Thomas*		0			4			0
+
+
+			New_Zealand Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+T_Boult			10			30			4			1			3
+M_Henry			9			76			1			0			8.44
+L_Ferguson		10			59			3			0			5.9
+J_Neesham		6			35			1			0			5.83
+M_Santner		10			61			0			1			6.1
+C_de_Grandhomme		4			22			1			0			5.5
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 12
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  New_Zealand	 	 	 291-8 (50)
+
+	K_Williamson  148 (154)	 S_Cotterll  4-56 (10)
+	R_Taylor  69 (95)	 	C_Brathwaite  2-58 (6)
+	J_Neesham  28 (23)	 	C_Gayle  1-8 (2)
+
+
+
+	  West_Indies	 	 	 286 (49)
+
+	C_Brathwaite  101 (82)	 T_Boult  4-30 (10)
+	C_Gayle  87 (84)	 	L_Ferguson  3-59 (10)
+	S_Hetmyer  54 (45)	 	C_de_Grandhomme  1-22 (4)
+
+ 
+ 
+ 
+ 	
+
+			
+New_Zealand Won by 5 Runs!

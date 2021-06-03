@@ -1,0 +1,117 @@
+
+ 
+ 
+ 	 	 	 Match No: 43 Out of 48 ( League match )
+
+	 	 	Pakistan VS Bangladesh
+
+Venue: Lord's,England
+
+
+   Toss details: 	
+	Pakistan Won the toss and choose to bat
+
+
+			Pakistan Batting 
+
+
+
+		Team score: 315 - 9  (50)	 	RR: 6.3
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+F_Zaman			13			31			41.935
+I_ul_Haq			100			100			100
+B_Azam			96			98			97.959
+M_Hafeez			27			25			108
+H_Sohail			6			6			100
+I_Wasim			43			26			165.38
+S_Ahmed*		3			3			100
+W_Riaz			2			4			50
+S_Khan			1			2			50
+M_Amir			8			6			133.33
+S_Afridi*			0			0			0
+
+
+			Bangladesh Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Hasan			10			30			1			0			3
+M_Saifuddin		9			77			3			0			8.56
+M_Rahman		10			75			5			0			7.5
+M_Mortaza		7			46			0			0			6.57
+S_Al_Hasan		10			57			0			0			5.7
+M_Hossain		4			27			0			0			6.75
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 16
+
+ 
+ 
+
+			Bangladesh Batting 
+
+
+
+		Team score: 221 - 10  (44.1)	 	RR: 5.01
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+T_Iqbal			8			21			38.095
+S_Sarkar			22			22			100
+S_Al_Hasan		64			77			83.117
+M_Rahim			16			19			84.211
+L_Das			32			40			80
+Mahmudullah		29			41			70.732
+M_Hossain		16			21			76.19
+M_Saifuddin		0			1			0
+M_Hasan*			7			6			116.67
+M_Mortaza		15			14			107.14
+M_Rahman		1			3			33.333
+
+
+			Pakistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Hafeez			6			32			0			1			5.33
+M_Amir			7			31			1			0			4.43
+S_Afridi			9.1			35			6			0			3.85
+W_Riaz			7			33			1			0			4.71
+I_Wasim			6			26			0			0			4.33
+S_Khan			9			59			2			0			6.56
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 11
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  Pakistan	 	 	 315-9 (50)
+
+	I_ul_Haq  100 (100)	 	M_Rahman  5-75 (10)
+	B_Azam  96 (98)	 	M_Saifuddin  3-77 (9)
+	I_Wasim  43 (26)	 	M_Hasan  1-30 (10)
+
+
+
+	  Bangladesh	 	  221 (44.1)
+
+	S_Al_Hasan  64 (77)	 	S_Afridi  6-35 (9.1)
+	L_Das  32 (40)	 	S_Khan  2-59 (9)
+	Mahmudullah  29 (41)	 M_Amir  1-31 (7)
+
+ 
+ 
+ 
+ 	
+
+			
+Pakistan Won by 94 Runs!

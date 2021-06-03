@@ -1,0 +1,113 @@
+
+ 
+ 
+ 	 	 	 Match No: 24 Out of 48 ( League match )
+
+	 	 	England VS Afghanistan
+
+Venue: Old_Trafford_Cricket_Ground,England
+
+
+   Toss details: 	
+	England Won the toss and choose to bat
+
+
+			England Batting 
+
+
+
+		Team score: 397 - 6  (50)	 	RR: 7.94
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+J_Vince			26			31			83.871
+J_Bairstow		90			99			90.909
+J_Root			88			82			107.32
+E_Morgan			148			71			208.45
+J_Buttler			2			2			100
+B_Stokes			2			6			33.333
+M_Ali*			31			9			344.44
+C_Woakes*		1			1			100
+
+
+			Afghanistan Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_U_Rahman		10			44			0			0			4.4
+D_Zadran			10			85			3			0			8.5
+M_Nabi			9			70			0			0			7.78
+G_Naib			10			68			3			0			6.8
+R_Shah			2			19			0			0			9.5
+R_Khan			9			110			0			0			12.2
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 9
+
+ 
+ 
+
+			Afghanistan Batting 
+
+
+
+		Team score: 247 - 8  (50)	 	RR: 4.94
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+N_Ali			0			7			0
+G_Naib			37			28			132.14
+R_Shah			46			74			62.162
+H_Shahidi			76			100			76
+A_Stanikzai		44			48			91.667
+M_Nabi			9			7			128.57
+N_Zadran			15			13			115.38
+R_Khan			8			13			61.538
+I_Khil*			3			10			30
+D_Zadran*		0			0			0
+
+
+			England Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+C_Woakes		9			41			0			0			4.56
+J_Archer			10			52			3			1			5.2
+M_Ali			7			35			0			0			5
+M_Wood			10			40			2			1			4
+B_Stokes			4			12			0			0			3
+A_Rashid			10			66			3			0			6.6
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 9
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  England	 	 	 397-6 (50)
+
+	E_Morgan  148 (71)	 	G_Naib  3-68 (10)
+	J_Bairstow  90 (99)	 	D_Zadran  3-85 (10)
+	J_Root  88 (82)	 	R_Shah  0-19 (2)
+
+
+
+	  Afghanistan	 	 247-8 (50)
+
+	H_Shahidi  76 (100)	 	J_Archer  3-52 (10)
+	R_Shah  46 (74)	 	A_Rashid  3-66 (10)
+	A_Stanikzai  44 (48)	 	M_Wood  2-40 (10)
+
+ 
+ 
+ 
+ 	
+
+			
+England Won by 150 Runs!

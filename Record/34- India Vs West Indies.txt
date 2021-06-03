@@ -1,0 +1,115 @@
+
+ 
+ 
+ 	 	 	 Match No: 34 Out of 48 ( League match )
+
+	 	 	India VS West_Indies
+
+Venue: Old_Trafford_Cricket_Ground,England
+
+
+   Toss details: 	
+	India Won the toss and choose to bat
+
+
+			India Batting 
+
+
+
+		Team score: 268 - 7  (50)	 	RR: 5.36
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+KL_Rahul			48			64			75
+R_Sharma			18			23			78.261
+V_Kohli			72			82			87.805
+V_Shankar		14			19			73.684
+K_Jadhav			7			10			70
+MS_Dhoni*		56			61			91.803
+H_Pandya			46			38			121.05
+M_Shami			0			2			0
+K_Yadhav*		0			1			0
+
+
+			West_Indies Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+S_Cottrell			10			50			2			0			5
+K_Roach			10			36			3			0			3.6
+O_Thomas		7			63			0			0			9
+F_Allen			10			52			0			0			5.2
+J_Holder			10			33			2			2			3.3
+C_Brathwaite		3			33			0			0			11
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 7
+
+ 
+ 
+
+			West_Indies Batting 
+
+
+
+		Team score: 143 - 10  (34.2)	 	RR: 4.18
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+C_Gayle			6			19			31.579
+S_Ambris			31			40			77.5
+S_Hope			5			10			50
+N_Pooran			28			50			56
+S_Hetmeyer		18			29			62.069
+J_Holder			6			13			46.154
+C_Brathwaite		1			5			20
+F_Allen			0			1			0
+K_Roach*			14			21			66.667
+S_Cotterll			10			8			125
+O_Thomas		6			11			54.545
+
+
+			India Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Shami			6.2			16			4			0			2.58
+J_Bumrah			6			9			2			1			1.5
+H_Pandya			5			28			1			0			5.6
+K_Yadhav			9			35			1			1			3.89
+K_Jadhav			1			4			0			0			4
+Y_Chahal			7			39			2			0			5.57
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 18
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  India	 	 	 268-7 (50)
+
+	V_Kohli  72 (82)	 	K_Roach  3-36 (10)
+	MS_Dhoni*  56 (61)	 	J_Holder  2-33 (10)
+	KL_Rahul  48 (64)	 	S_Cottrell  2-50 (10)
+
+
+
+	  West_Indies	 	  143 (34.2)
+
+	S_Ambris  31 (40)	 	M_Shami  4-16 (6.2)
+	N_Pooran  28 (50)	 	J_Bumrah  2-9 (6)
+	S_Hetmeyer  18 (29)	 	Y_Chahal  2-39 (7)
+
+ 
+ 
+ 
+ 	
+
+			
+India Won by 125 Runs!

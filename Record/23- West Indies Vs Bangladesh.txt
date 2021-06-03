@@ -1,0 +1,110 @@
+
+ 
+ 
+ 	 	 	 Match No: 23 Out of 48 ( League match )
+
+	 	 	West_Indies VS Bangladesh
+
+Venue: Country_Garden,Taunton,England
+
+
+   Toss details: 	
+	Bangladesh Won the toss and choose to bowl
+
+
+			West_Indies Batting 
+
+
+
+		Team score: 321 - 8  (50)	 	RR: 6.42
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+C_Gayle			0			13			0
+E_Lewis			70			67			104.48
+S_Hope			96			121			79.339
+N_Pooran			25			30			83.333
+S_Hetmyer		50			26			192.31
+A_Russell			0			2			0
+J_Holder			33			15			220
+D_Bravo			19			15			126.67
+O_Thomas*		6			11			54.545
+S_Cotterll*		0			0			0
+
+
+			Bangladesh Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+M_Mortaza		8			37			0			1			4.62
+M_Saifuddin		10			72			3			1			7.2
+M_Rahman		9			59			3			0			6.56
+M_Hasan			9			57			0			0			6.33
+M_Hossain		6			36			0			0			6
+S_Al_Hasan		8			54			2			0			6.75
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 22
+
+ 
+ 
+
+			Bangladesh Batting 
+
+
+
+		Team score: 322 - 3  (41.3)	 	RR: 7.8
+
+ 
+	 Batsman details 
+
+Name			Runs			Balls			Strike rate
+T_Iqbal			48			53			90.566
+S_Sarkar			29			23			126.09
+S_Al_Hasan*		124			99			125.25
+M_Rahim			1			5			20
+L_Das*			94			69			136.23
+
+
+			West_Indies Bowling 
+ 
+ 
+ 	 Bowler details 
+
+Name			Overs			Runs			Wickets			Maiden			Economy
+S_Cottrell			10			65			0			0			6.5
+J_Holder			9			62			0			0			6.89
+A_Russell			6			42			1			0			7
+S_Gabriel			8.3			78			0			0			9.4
+O_Thomas		6			52			1			0			8.67
+C_Gayle			2			22			0			0			11
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 Extras : 26
+
+ 
+ 
+ 	 	 	 MATCH SUMMARY
+
+
+	  West_Indies	 	 321-8 (50)
+
+	S_Hope  96 (121)	 	M_Rahman  3-59 (9)
+	E_Lewis  70 (67)	 	M_Saifuddin  3-72 (10)
+	S_Hetmyer  50 (26)	 	S_Al_Hasan  2-54 (8)
+
+
+
+	  Bangladesh	 	 322-3 (41.3)
+
+	S_Al_Hasan*  124 (99)	 A_Russell  1-42 (6)
+	L_Das*  94 (69)	 	O_Thomas  1-52 (6)
+	T_Iqbal  48 (53)	 	C_Gayle  0-22 (2)
+
+ 
+ 
+ 
+ 	
+
+			
+Bangladesh Won by 7 Wickets!
